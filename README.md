@@ -6,18 +6,29 @@
 
 <a href="https://github.com/nandinipulivarthi57"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Senior+GIS+Developer+%7C+8%2B+Years+of+Experience;ArcGIS+Enterprise+%7C+ArcPy+%7C+ArcGIS+Pro+SDK;Building+Smart+Spatial+Solutions%2C+One+Map+at+a+Time" alt="Typing SVG" /></a>
 
+📍 Dallas-Fort Worth Metroplex, TX (Open to Relocation)
+
 </div>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm **Hima Nandini Pulivarthi**, a **Senior GIS Developer** with **8 years of experience** designing, building, and deploying enterprise-grade geospatial systems. I work across the full **ArcGIS platform** — from **ArcGIS Enterprise** administration and **Utility Network** configuration to custom apps with the **ArcGIS Pro SDK** and **ArcGIS Map SDK for JavaScript 4.x**, backed by solid **ArcPy/ETL** pipelines and **SQL Server/SDE** geodatabases.
+I'm **Hima Nandini Pulivarthi**, a **Senior GIS Developer** with **8 years of experience** on the Esri ArcGIS platform delivering spatial analysis, data modeling, and geospatial data engineering solutions across web, desktop, and mobile. I work across the full **ArcGIS platform** — from **ArcGIS Enterprise** administration and **Utility Network** configuration to custom apps with the **ArcGIS Pro SDK** and **ArcGIS Map SDK for JavaScript 4.x**, backed by solid **ArcPy/ETL** pipelines and **SQL Server/SDE** geodatabases. I've led full-SDLC GIS project management across requirements, CI/CD, automated testing, and Cloud GIS (Azure) deployment, with experience mentoring engineering teams.
 
 - 🗺️ I turn messy spatial data into clean, scalable, production-ready GIS solutions
 - ⚙️ I automate everything I can with ArcPy, ETL pipelines, and Azure DevOps CI/CD
 - 🧪 I believe untested GIS code is broken GIS code — NUnit/xUnit all the way
 - 🤝 I thrive in Agile/Scrum teams, turning sprint goals into shipped features
+
+---
+
+## 🏆 Key Achievements
+
+- 📉 Reduced geospatial data latency **40%** for **15+ county clients** via Python/ArcPy ETL and ArcGIS Enterprise geodatabase synchronization
+- 🗺️ Deployed EdgeMaps to **16 counties**; product included in **40% of company contracts**, generating **$25,000–$75,000 per client**
+- ✅ Maintained **95%+ CI/CD build success rate** across all county GIS deployments using Azure DevOps and NUnit/xUnit automated testing
+- ⚡ Cut batch-insert time **60%** on **500K+ record** parcel geodatabases through performance profiling and targeted query optimization
 
 ---
 
@@ -53,9 +64,20 @@ I'm **Hima Nandini Pulivarthi**, a **Senior GIS Developer** with **8 years of ex
 
 ---
 
+## 💡 Soft Skills
+
+- 📋 **GIS Project Management** — led requirements-to-delivery planning with county government stakeholders across 15+ client deployments
+- 🗣️ **Stakeholder Communication** — translated complex geospatial requirements into scoped plans for non-technical county staff and product managers
+- 🧑‍🏫 **Team Leadership & Coaching** — promoted to Team Coach; mentored GIS support engineers and onboarded 5 analysts per monthly hire cycle
+- 📅 **Agile Delivery** — managed sprint planning, backlog refinement, and standup coordination in Jira across multi-county GIS release cycles
+- 🔍 **Problem-Solving** — diagnosed complex ArcGIS platform defects through hands-on reproduction; maintained 95%+ CSAT over 3 years of developer support
+- 🎓 **Technical Training** — designed and delivered monthly KEP sessions standardizing Esri developer troubleshooting approaches across the support team
+
+---
+
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandinipulivarthi57)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hima-nandini-pulivarthi-66a048237)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandinipulivarthi57)
 
 ---
@@ -83,7 +105,7 @@ I'm **Hima Nandini Pulivarthi**, a **Senior GIS Developer** with **8 years of ex
 
 ## 🤝 Let's Connect
 
-I'm always open to discussing GIS architecture, ArcGIS Enterprise deployments, or geospatial engineering best practices. Feel free to reach out via LinkedIn or GitHub above.
+I'm always open to discussing GIS architecture, ArcGIS Enterprise deployments, or geospatial engineering best practices. Based in the Dallas-Fort Worth Metroplex and open to relocation — feel free to reach out via LinkedIn or GitHub above.
 
 **Thanks for stopping by — let's build smarter spatial solutions together! 🌍**
 
