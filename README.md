@@ -1,12 +1,10 @@
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=nandinipulivarthi57&label=Profile%20Views&color=2F81F7&style=flat" alt="Profile Views"/>
+
 <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" height="120" alt="Wave Banner"/>
 
-<a href="https://github.com/nandinipulivarthi57">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines= Senior+GIS+Developer+%7C+8%2B+Years+of+Experience;ArcGIS+Enterprise+%7C+ArcPy+%7C+ArcGIS+Pro+SDK;Building+Smart+Spatial+Solutions%2C+One+Map+at+a+Time;Turning+Geospatial+Data+into+Real-World+Impact" alt="Typing SVG" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=nandinipulivarthi57&label=Profile%20Views&color=2F81F7&style=flat" alt="Profile Views"/>
+<a href="https://github.com/nandinipulivarthi57"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Senior+GIS+Developer+%7C+8%2B+Years+of+Experience;ArcGIS+Enterprise+%7C+ArcPy+%7C+ArcGIS+Pro+SDK;Building+Smart+Spatial+Solutions%2C+One+Map+at+a+Time" alt="Typing SVG" /></a>
 
 </div>
 
@@ -14,93 +12,79 @@
 
 ## 👩‍💻 About Me
 
-I'm **Hima Nandini Pulivarthi**, a **GIS Developer** with **8 years of experience** designing, building, and deploying enterprise-grade geospatial systems. I specialize in the **ArcGIS platform** — from ArcGIS Enterprise administration and Utility Network configuration to building custom apps with the **ArcGIS Pro SDK** and **ArcGIS Map SDK for JavaScript 4.x**. I love turning messy spatial data into clean, scalable, production-ready solutions.
+I'm **Hima Nandini Pulivarthi**, a **Senior GIS Developer** with **8 years of experience** designing, building, and deploying enterprise-grade geospatial systems. I work across the full **ArcGIS platform** — from **ArcGIS Enterprise** administration and **Utility Network** configuration to custom apps with the **ArcGIS Pro SDK** and **ArcGIS Map SDK for JavaScript 4.x**, backed by solid **ArcPy/ETL** pipelines and **SQL Server/SDE** geodatabases.
 
-- 🗺️ Passionate about solving real-world problems through spatial analysis and smart map applications
-- ⚙️ Experienced in full SDLC, CI/CD pipelines (Azure DevOps), and automated testing (NUnit/xUnit)
-- 🧩 I enjoy architecting enterprise geodatabases and ETL pipelines that just *work*
-- 🌱 Always exploring new ways to blend GIS with modern software engineering practices
-- 🤝 Big believer in Agile/Scrum collaboration and clean, maintainable code
+- 🗺️ I turn messy spatial data into clean, scalable, production-ready GIS solutions
+- ⚙️ I automate everything I can with ArcPy, ETL pipelines, and Azure DevOps CI/CD
+- 🧪 I believe untested GIS code is broken GIS code — NUnit/xUnit all the way
+- 🤝 I thrive in Agile/Scrum teams, turning sprint goals into shipped features
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend / Web & Mobile GIS
-![ArcGIS Map SDK JS](https://img.shields.io/badge/ArcGIS%20Map%20SDK%20JS%204.x-1A1A2E?style=for-the-badge&logo=esri&logoColor=00C1D4)
-![ArcGIS Map SDK .NET](https://img.shields.io/badge/ArcGIS%20Map%20SDK%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
-![MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![UWP](https://img.shields.io/badge/UWP-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+### Frontend / Languages
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![ArcGIS Map SDK JS](https://img.shields.io/badge/ArcGIS%20Map%20SDK%20JS%204.x-2C7AC3?style=for-the-badge)](https://developers.arcgis.com/javascript/latest/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C#/.NET](https://img.shields.io/badge/C%23%20%2F%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![Arcade](https://img.shields.io/badge/Arcade-FF6F00?style=for-the-badge)](https://developers.arcgis.com/arcade/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 
-### ⚙️ Backend & Core GIS Engineering
-![ArcGIS Enterprise](https://img.shields.io/badge/ArcGIS%20Enterprise-1A1A2E?style=for-the-badge&logo=esri&logoColor=00C1D4)
-![ArcGIS Pro SDK](https://img.shields.io/badge/ArcGIS%20Pro%20SDK-1A1A2E?style=for-the-badge&logo=esri&logoColor=00C1D4)
-![ArcPy](https://img.shields.io/badge/ArcPy-306998?style=for-the-badge&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Arcade](https://img.shields.io/badge/Arcade-FF6600?style=for-the-badge&logo=esri&logoColor=white)
-![ArcGIS Utility Network](https://img.shields.io/badge/ArcGIS%20Utility%20Network-1A1A2E?style=for-the-badge&logo=esri&logoColor=00C1D4)
-![ArcGIS REST API](https://img.shields.io/badge/ArcGIS%20REST%20API-1A1A2E?style=for-the-badge&logo=esri&logoColor=00C1D4)
-![OGC WMS/WFS](https://img.shields.io/badge/OGC%20WMS%2FWFS-0072BC?style=for-the-badge&logo=opengis&logoColor=white)
-![ArcGIS Online](https://img.shields.io/badge/ArcGIS%20Online-1A1A2E?style=for-the-badge&logo=esri&logoColor=00C1D4)
-![ArcObjects](https://img.shields.io/badge/ArcObjects-1A1A2E?style=for-the-badge&logo=esri&logoColor=00C1D4)
+### Backend / GIS Platform
+[![ArcGIS Enterprise](https://img.shields.io/badge/ArcGIS%20Enterprise-2C7AC3?style=for-the-badge)](https://enterprise.arcgis.com/)
+[![ArcGIS Pro SDK](https://img.shields.io/badge/ArcGIS%20Pro%20SDK-2C7AC3?style=for-the-badge)](https://pro.arcgis.com/en/pro-app/latest/sdk/)
+[![ArcPy/ETL](https://img.shields.io/badge/ArcPy%20%2F%20ETL-2C7AC3?style=for-the-badge)](https://pro.arcgis.com/en/pro-app/latest/arcpy/)
+[![ArcGIS Utility Network](https://img.shields.io/badge/ArcGIS%20Utility%20Network-2C7AC3?style=for-the-badge)](https://www.esri.com/en-us/arcgis/products/arcgis-utility-network/overview)
+[![ArcGIS REST API](https://img.shields.io/badge/ArcGIS%20REST%20API-2C7AC3?style=for-the-badge)](https://developers.arcgis.com/rest/)
+[![ArcGIS Online](https://img.shields.io/badge/ArcGIS%20Online-2C7AC3?style=for-the-badge)](https://www.arcgis.com/)
+[![ArcObjects](https://img.shields.io/badge/ArcObjects-2C7AC3?style=for-the-badge)](https://desktop.arcgis.com/en/arcobjects/)
+[![OGC WMS/WFS](https://img.shields.io/badge/OGC%20(WMS%2FWFS)-2C7AC3?style=for-the-badge)](https://www.ogc.org/)
+[![SQL Server / SDE](https://img.shields.io/badge/SQL%20Server%20%2F%20SDE-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 
-### 🧰 Tools & Practices
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![NUnit](https://img.shields.io/badge/NUnit-1DA1F2?style=for-the-badge&logo=nunit&logoColor=white)
-![xUnit](https://img.shields.io/badge/xUnit-8A2BE2?style=for-the-badge&logo=xunit&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+### Tools & DevOps
+[![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/en-us/products/devops)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![NUnit](https://img.shields.io/badge/NUnit-1E5091?style=for-the-badge&logo=nunit&logoColor=white)](https://nunit.org/)
+[![xUnit](https://img.shields.io/badge/xUnit-1E5091?style=for-the-badge&logo=xunit&logoColor=white)](https://xunit.net/)
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
+[![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/agile/scrum)
 
 ---
 
 ## 🔗 Connect With Me
 
-<p>
-<a href="https://www.linkedin.com/in/hima-nandini-pulivarthi-66a048237" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/nandinipulivarthi57" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandinipulivarthi57)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandinipulivarthi57)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandinipulivarthi57&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinipulivarthi57&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandinipulivarthi57&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=nandinipulivarthi57&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=nandinipulivarthi57&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinipulivarthi57&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nandinipulivarthi57&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nandinipulivarthi57&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
 
 ---
 
-<div align="center">
+## 🤝 Let's Connect
 
-### 🤝 Let's Connect & Build Something Great Together!
+I'm always open to discussing GIS architecture, ArcGIS Enterprise deployments, or geospatial engineering best practices. Feel free to reach out via LinkedIn or GitHub above.
 
-Thanks for stopping by — always open to interesting conversations about GIS, geospatial engineering, and building smarter maps. 🌍
-
-![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge)
+**Thanks for stopping by — let's build smarter spatial solutions together! 🌍**
 
 </div>
