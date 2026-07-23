@@ -82,23 +82,12 @@ I'm **Hima Nandini Pulivarthi**, a **Senior GIS Developer** with **8 years of ex
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nandinipulivarthi57&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=nandinipulivarthi57&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=nandinipulivarthi57&theme=tokyonight" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandinipulivarthi57&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nandinipulivarthi57&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
