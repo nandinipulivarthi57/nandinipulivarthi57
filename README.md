@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" height="120" alt="Wave Banner"/>
 
-<a href="https://github.com/nandinipulivarthi57"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Senior+GIS+Developer+%7C+8%2B+Years+of+Experience;ArcGIS+Enterprise+%7C+ArcPy+%7C+ArcGIS+Pro+SDK;Building+Smart+Spatial+Solutions%2C+One+Map+at+a+Time" alt="Typing SVG" /></a>
+<a href="https://github.com/nandinipulivarthi57"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Senior+GIS+Developer+%7C+8%2B+Years+of+Experience;ArcGIS+Enterprise+%7C+ArcPy+%7C+ArcGIS+Pro+SDK;Building+Smart+Spatial+Solutions%2C+One+Map+at+a+Time" alt="Typing SVG" /></a>
 
 📍 Dallas-Fort Worth Metroplex, TX (Open to Relocation)
 
