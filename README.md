@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" height="120" alt="Wave Banner"/>
 
 <a href="https://github.com/nandinipulivarthi57">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=GIS+Developer+%7C+8%2B+Years+of+Experience;ArcGIS+Enterprise+%7C+ArcPy+%7C+ArcGIS+Pro+SDK;Building+Smart+Spatial+Solutions%2C+One+Map+at+a+Time;Turning+Geospatial+Data+into+Real-World+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines= Senior+GIS+Developer+%7C+8%2B+Years+of+Experience;ArcGIS+Enterprise+%7C+ArcPy+%7C+ArcGIS+Pro+SDK;Building+Smart+Spatial+Solutions%2C+One+Map+at+a+Time;Turning+Geospatial+Data+into+Real-World+Impact" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=nandinipulivarthi57&label=Profile%20Views&color=2F81F7&style=flat" alt="Profile Views"/>
